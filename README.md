@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Samay</h1>
+<h1 align="center"> I'm Samay</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaysingh-23&label=Profile%20views&color=0e75b6&style=flat" alt="samaysingh-23" /> </p>
 
